@@ -18,7 +18,7 @@ I have extensive practical experience in Android development, covering the follo
 
 ## 📫 Contact Me
 If you have any questions or suggestions about my projects or Android development in general, feel free to reach out via:
-- Twitter: [@littleninelist](https://twitter.com/littleninelist)
+- Twitter: [@littleninelist](https://twitter.com/littleninelst)
 - Telegram: [@littlenine](https://t.me/littlenine)
 
 ## 🌟 Thank You for Visiting
