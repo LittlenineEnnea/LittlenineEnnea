@@ -2,8 +2,9 @@
 
 ## 👋 About Me
 I'm Littlenine, a passionate software engineer who loves coding and open source. My primary focus is on Android app development, with a deep interest and several years of experience in mobile technologies.
-![Littlenine's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittlenineEnnea&show_icons=true&theme=onedark)
+![Littlenine's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittlenineEnnea&show_icons=true&theme=ambient_gradient)
 ![Littlenine's Github Language](https://github-readme-stats.vercel.app/api/top-langs/?username=LittlenineEnnea)]
+
 ## 💻 My Development Setup
 - **Operating System**: Windows 11
 - **IDE**: Android Studio, Visual Studio Code
