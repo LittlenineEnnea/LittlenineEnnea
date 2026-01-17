@@ -2,9 +2,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LittlenineEnnea&theme=zenburn)
 ## 👋 About Me  [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 I'm Littlenine, a passionate software engineer who loves coding and open source. My primary focus is on Android app development, with a deep interest and several years of experience in mobile technologies.
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LittlenineEnnea&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LittlenineEnnea&theme=tokyonight)
-
 ## 💻 My Development Setup
 - **Operating System**: Windows 11
 - **IDE**: Android Studio, Visual Studio Code
