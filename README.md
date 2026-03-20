@@ -25,7 +25,7 @@ I have extensive practical experience in Android development, covering the follo
 ## 📫 Contact Me
 If you have any questions or suggestions about my projects or Android development in general, feel free to reach out via:
 
-[![Twitter](https://img.shields.io/twitter/follow/LittlenineEnnea?color=1ca0f1&label=%40LittlenineEnnea&logo=twitter&logoColor=white&style=flat-square&labelColor=1ca0f1)](https://twitter.com/LittlenineEnnea)
+[![X](https://img.shields.io/twitter/follow/LittlenineEnnea?style=flat-square&logo=x&logoColor=white&label=%40LittlenineEnnea&color=000000&labelColor=000000)](https://twitter.com/LittlenineEnnea)
 [![Telegram](https://img.shields.io/badge/%40Littlenine-0088cc?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/Littlenine)
 [![Email](https://img.shields.io/badge/LittlenineEnnea%40gmail%2ecom-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:LittlenineEnnea@gmail.com)
 ## 🌟 Thank You for Visiting
