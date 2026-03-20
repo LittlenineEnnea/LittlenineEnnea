@@ -6,6 +6,7 @@ I'm Littlenine, a passionate software engineer who loves coding and open source.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LittlenineEnnea&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LittlenineEnnea&theme=tokyonight)
 ## 💻 My Development Environment
+[![MacOS](https://img.shields.io/badge/macOS-black?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/macos/)
 [![Android 15](https://img.shields.io/badge/Android%2015-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-15/)
 [![Android 16](https://img.shields.io/badge/Android%2016-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-16/)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/windows-11)
