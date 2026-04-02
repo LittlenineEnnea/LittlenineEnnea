@@ -3,7 +3,11 @@
 ## 👋 About Me  [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 I'm Littlenine, a passionate software engineer who loves coding and open source. My primary focus is on Android app development, with a deep interest and several years of experience in mobile technologies.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LittlenineEnnea&theme=monokai)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=LittlenineEnnea&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&bg_color=30,87CEEB,1E90FF&title_color=fff&text_color=fff&count_private=true&hide_border=true"
+         alt="Littlenine's GitHub stats"
+         style="height: 200px; border: none; display: block;">
+  </a>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LittlenineEnnea&theme=tokyonight)
 ## 💻 My Development Environment
 [![MacOS](https://img.shields.io/badge/macOS-black?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/macos/)
