@@ -8,8 +8,13 @@ I'm Littlenine, a passionate software engineer who loves coding and open source.
          alt="Littlenine's GitHub stats"
          style="height: 200px; border: none; display: block;">
     </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=LittlenineEnnea&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook,MATLAB&bg_color=30,87CEEB,1E90FF&title_color=fff&text_color=fff&role=OWNER,ORGANIZATION_MEMBER&langs_count=10&hide_border=true"
+         alt="Top Languages"
+         style="height: 200px; border: none; display: block;">
+  </a>
+</div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LittlenineEnnea&theme=tokyonight)
 ## 💻 My Development Environment
 [![MacOS](https://img.shields.io/badge/macOS-black?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/macos/)
 [![Android 15](https://img.shields.io/badge/Android%2015-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-15/)
