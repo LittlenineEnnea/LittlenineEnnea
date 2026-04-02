@@ -7,7 +7,8 @@ I'm Littlenine, a passionate software engineer who loves coding and open source.
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=LittlenineEnnea&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&bg_color=30,87CEEB,1E90FF&title_color=fff&text_color=fff&count_private=true&hide_border=true"
          alt="Littlenine's GitHub stats"
          style="height: 200px; border: none; display: block;">
-  </a>
+    </a>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LittlenineEnnea&theme=tokyonight)
 ## 💻 My Development Environment
 [![MacOS](https://img.shields.io/badge/macOS-black?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/macos/)
