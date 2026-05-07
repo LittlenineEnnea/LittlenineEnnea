@@ -1,6 +1,6 @@
-# Welcome to My GitHub Page!
+# Welcome to My GitHub Page! [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)]
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LittlenineEnnea&theme=zenburn)
-## 👋 About Me  [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+## 👋 About Me  (https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 I'm Littlenine, a passionate software engineer who loves coding and open source. My primary focus is on Android app development, with a deep interest and several years of experience in mobile technologies.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
