@@ -4,7 +4,7 @@
 
 ---
 
-## 👋 About Me
+## 👋 About Me 🇨🇦
 
 I'm Littlenine, a passionate software engineer who loves coding and open source. My primary focus is on Android app development, with a deep interest and several years of experience in mobile technologies.
 
