@@ -1,4 +1,4 @@
-# Welcome to Ennea's GitHub Page! 🇨🇦 
+# Welcome to Ennea's GitHub Page! <img src="https://flagcdn.com/ca.svg" width="22" alt="Canada">
 ![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LittlenineEnnea&theme=zenburn)
 
 ---
